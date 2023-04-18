@@ -35,3 +35,4 @@ rm -fr ALL_FORCES
 ../bin/mpnrlmol.ser
 ../bin/mpnrlmol.ser
 ../bin/mpnrlmol.ser
+cat ALL-FORCES
